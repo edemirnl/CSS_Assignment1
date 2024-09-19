@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+   }
+
+#container_gray {
+    background-color: gray;
+    width: 100%;
+    height: auto;
+    padding: 10px;
+}
+#header_blue {
+    background-color: blue;
+    height: 200px;
+    margin-bottom: 40px;
+}
+
+#navbar_red {
+    width: 30%;
+    background-color: red;
+    height: 600px;
+}
+#maincontent_yellow {
+    width: 70%;
+    background-color: yellow;
+    height: 700px;
+    padding: 20px;
+}
+.flex-box {
+    display:flex;
+    gap:50px;
+}
+.subcontent_purple {
+    width: 30%;
+    background-color: purple;
+    height: 400px;
+
+}
+.purple-container{
+    display: flex;
+    justify-content: space-between;
+}
+#advertisements_pink {
+    background-color: pink;
+    height: 250px;
+    margin-top: 20px;
+}
